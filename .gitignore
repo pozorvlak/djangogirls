@@ -2,3 +2,4 @@ myvenv
 db.sqlite3
 .ropeproject/
 *.pyc
+local_settings.py
