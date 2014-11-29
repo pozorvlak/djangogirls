@@ -3,3 +3,5 @@ db.sqlite3
 .ropeproject/
 *.pyc
 local_settings.py
+__pycache__
+staticfiles
